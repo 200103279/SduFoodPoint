@@ -5,7 +5,7 @@
 ## Team name: Syndicate
 ### Team members: 
 #### -Altynali Nurly 200103237@stu.sdu.edu.kz
-#### -Kabilzhan Aruzhan 200103279@stu.sdu.edu.kz
+#### -Aruzhan Kabilzhan 200103279@stu.sdu.edu.kz
 #### -Ainel Yermekova  200103205@stu.sdu.edu.kz
 #### -Azretaly Tarazi 200103456@stu.sdu.edu.kz
 #### -Nurlybek Mendigaliyev
